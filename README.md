@@ -1,9 +1,6 @@
 # Sign up page
 
-Given sign in page ([signin.html](web/signin.html)) : 
-
-![login](web/signin.png)
-
+Given sign in page .
 implement sign up page (signup.html): 
 
-![signup](web/signup.png)
+
